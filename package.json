@@ -14,8 +14,8 @@
     "angular": "1.5.*",
     "angular-animate": "1.5.*",
     "angular-sanitize": "1.5.*",
-    "angular-ui-bootstrap": "2.3.x",
     "angular-svg-base-fix": "2.0.0",
+    "angular-ui-bootstrap": "2.3.x",
     "lodash": "4.x",
     "patternfly": ">=3.27.2"
   },
